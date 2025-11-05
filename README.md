@@ -9,7 +9,6 @@
 - [Установка](#установка)
 - [Доступные скрипты](#доступные-скрипты)
 - [Использование](#использование)
-- [Структура проекта](#структура-проекта)
 - [Участие в разработке](#участие-в-разработке)
 
 ## О проекте
@@ -96,24 +95,6 @@ python image_resizer.py --input ./images --width 800 --height 600
 **Объединение CSV-файлов:**
 ```bash
 python csv_merger.py --input ./data --output merged.csv
-```
-
-## Структура проекта
-
-```
-python-automation-scripts/
-├── scripts/
-│   ├── files/
-│   ├── data/
-│   ├── web/
-│   └── images/
-├── utils/
-│   └── helpers.py
-├── tests/
-├── examples/
-├── requirements.txt
-├── .gitignore
-└── README.md
 ```
 
 ## Конфигурация
