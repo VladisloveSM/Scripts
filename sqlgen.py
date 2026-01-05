@@ -4,7 +4,7 @@ import decimal
 import sys
 import os
 
-OUTPUT_DIR = r"1.KOMDEV-11446"
+OUTPUT_DIR = r"1.DEVDEV-11446"
 INPUT_FILE = r"input.txt"
 VIEWS_FILE = r"views.txt"
 
